@@ -14,7 +14,7 @@ from aiogram.client.default import DefaultBotProperties
 # ==========================================
 # --- НАСТРОЙКИ ---
 # ==========================================
-TOKEN = "8941456369:AAGI4ie5NtbvdMPQ_8XtoCPBzNjrodxjH20"
+TOKEN = "8867703303:AAFCLl8XjoIc9iHG3mgJysTTFdEsEPV9QjE"
 ADMIN_ID = 6362369788  # ВАШ ID АДМИНА
 
 DB_PATH = "bot_database.db"
